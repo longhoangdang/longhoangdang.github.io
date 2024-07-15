@@ -6,7 +6,7 @@ class MyLogo1 extends HTMLElement {
   connectedCallback() {
     this.innerHTML = `
 		<div class="d-flex justify-content-center">
-			<img src="assets/img/KD-logo-2.png" style="width: 10%; height: auto" alt="My logo" >
+			<img src="assets/img/logo.jpg" style="width: 10%; height: auto" alt="My logo" >
 		</div>
     `;
   }
